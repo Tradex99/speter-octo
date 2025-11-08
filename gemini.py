@@ -4,7 +4,7 @@ import re
 import time
 
 # --- Config ---
-API_KEY = "AIzaSyCyvjN_7_kDRU8p0J3ANhbTpQwjcHrJ1gc"
+API_KEY = "AIzaSyCUk0MmJDaGN0Lc4_wQtpwxB9YooDWzSks"
 MODEL = "gemini-2.0-flash"
 OUTPUT_FILE = "gemini.txt"
 URL_FILE = "URL.txt"
